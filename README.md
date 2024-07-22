@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Santhosh! 🌟
 
 ## 🌟 About Me
-Glad to have you here! I am an enthusiastic developer with a passion for crafting both front-end and back-end solutions. 🚀 My dedication lies in creating seamless user experiences and robust server-side applications. 🌱 Continuously evolving, I embrace the latest technologies to stay ahead in the industry.
+Glad to have you here! I am an enthusiastic developer with a passion for crafting both ux design ,front-end ,back-end solutions . 🚀 My dedication lies in creating seamless user experiences and robust server-side applications. 🌱 Continuously evolving, I embrace the latest technologies to stay ahead in the industry.
 
 ## 🛠️ My Skill Set
 1. **Front-End Development:**
@@ -42,7 +42,7 @@ Glad to have you here! I am an enthusiastic developer with a passion for craftin
    - 🤝 Collaborating with others to explore innovative solutions.
 
 3. **Future Goals:**
-   - ☁️ Aiming to master cloud computing and DevOps practices.
+   - ☁️ Aiming to master cloud computing and DATA SCIENCE
    - 🤖 Delving into AI and machine learning to expand my expertise.
 
 ## 🎨 Interactive Projects
@@ -54,5 +54,5 @@ Glad to have you here! I am an enthusiastic developer with a passion for craftin
    - 📋 Developing interactive forms for enhanced user engagement.
    - 🔧 Combining front-end and back-end technologies for dynamic functionality.
 
----
+
 
